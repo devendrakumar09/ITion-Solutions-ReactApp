@@ -7,7 +7,7 @@ const HeroSection = () => {
                 <div className="mx-auto max-w-2xl py-28 ">
                     <div className="hidden sm:mb-8 sm:flex sm:justify-center">
                         <div className="relative rounded-full px-3 py-1 text-sm leading-6  ring-1 ring-gray-900/10 hover:ring-gray-900/20 text-white">
-                        React Developer job Project &nbsp;&nbsp; <a href="#" className="font-semibold  text-black"><span className="absolute inset-0" aria-hidden="true"></span>Github Repo <span aria-hidden="true">&rarr;</span></a>
+                        React Developer job Project &nbsp;&nbsp; <a href="https://github.com/devendrakumar09/ITion-Solutions-ReactApp" className="font-semibold  text-black"><span className="absolute inset-0" aria-hidden="true"></span>Github Repo <span aria-hidden="true">&rarr;</span></a>
                         </div>
                     </div>
                     <div className="text-center">
